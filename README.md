@@ -97,6 +97,8 @@ The adapter allows you to control a dishwasher or other devices that consume sta
 * (René) github workflow with node@24
 * (René) see issue #433: make sure this.device.WallboxOID is defined before using it
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 MIT License
 
